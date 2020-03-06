@@ -10,7 +10,9 @@
 Paytm dummy credentials are here for testing purpose of the developer : 
 
 **Mobile Number:** 7777777777
+
 **Password:** Paytm12345
+
 **OTP:** 489871
 
 **Card No:** 4111 -1111 - 1111 - 1111
@@ -20,3 +22,5 @@ Paytm dummy credentials are here for testing purpose of the developer :
 **CVV:** 123
 
 Name of the Issuing Bank: **EBS**
+
+![](http://devnote.in/images/paytm-form-design.png)
