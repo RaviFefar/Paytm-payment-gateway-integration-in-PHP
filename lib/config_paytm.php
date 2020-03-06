@@ -12,13 +12,6 @@ define('PAYTM_MERCHANT_KEY', 'uG*****lH'); //Change this constant's value with M
 define('PAYTM_MERCHANT_MID', 'Iy*****48'); //Change this constant's value with MID (Merchant ID) received from Paytm.
 define('PAYTM_MERCHANT_WEBSITE', 'WE*****NG'); //Change this constant's value with Website name received from Paytm.
 
-/* $PAYTM_STATUS_QUERY_NEW_URL='https://securegw-stage.paytm.in/order/status';
-$PAYTM_TXN_URL='https://securegw-stage.paytm.in/order/process';
-if (PAYTM_ENVIRONMENT == 'PROD') {
-	$PAYTM_STATUS_QUERY_NEW_URL='https://securegw-stage.paytm.in/order/status';
-	$PAYTM_TXN_URL='https://securegw-stage.paytm.in/order/process';
-} */
-
 $PAYTM_STATUS_QUERY_NEW_URL='https://securegw-stage.paytm.in/merchant-status/getTxnStatus';
 $PAYTM_TXN_URL='https://securegw-stage.paytm.in/theia/processTransaction';
 if (PAYTM_ENVIRONMENT == 'PROD') {
