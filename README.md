@@ -6,7 +6,7 @@
 
 **Step 3:** Rename zip file with 'paytmkit'.
 
-**Step 4:** Run this url : http://localhost/paytmkit
+**Step 4:** Run this url : http://127.0.0.1:8000/paytmkit
 
 Paytm dummy credentials are here for testing purpose of the developer : 
 
