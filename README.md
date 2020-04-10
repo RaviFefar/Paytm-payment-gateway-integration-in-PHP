@@ -24,4 +24,4 @@ Paytm dummy credentials are here for testing purpose of the developer :
 
 Name of the Issuing Bank: **EBS**
 
-![](http://devnote.in/images/paytm-form-design.png)
+![](http://devnote.in/personal_data/paytm-form-design.png)
